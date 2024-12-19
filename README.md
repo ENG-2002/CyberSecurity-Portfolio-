@@ -4,14 +4,13 @@ eng-abdalla-mohamed-khalifa-wagialla-1364b021b
 Vanity URL name
 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am an Cyber Security Analyst-Entry Level , 
+Welcome to my cybersecurity portfolio! I am Abdalla , and I'm  passionate about cybersecurity with an Entry-Level background in protecting digital assets and mitigating threats. With a knowledge on network security, penetration testing, incident response. I am committed to creating secure environments through proactive measures and continuous learning. My portfolio showcases projects and achievements that reflect my dedication to safeguarding information and my ability to adapt in an ever-evolving landscape. 
+ 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Pen tester.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
